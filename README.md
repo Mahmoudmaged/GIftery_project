@@ -1,1 +1,1 @@
-# GIftery_project
+# Giftery
